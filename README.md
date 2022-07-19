@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- ⚡ Fun fact **I love to play Fortnite.So don't challenge me**
+- ⚡ Fun fact ** love to play Fortnite **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
