@@ -1,7 +1,7 @@
 [![MasterHead](https://i.gifer.com/758b.gif)](https://rishavchanda.io)
  <h1 align="center">Hi 👋, I'm Md Sameeruddin</h1>
 <h3 align="center">A passionate learner.</h3>
-<img align="right" alt="Coding" width="200" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">	
+<img align="right" alt="Coding" width="250" height = '200' src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">	
 👦I'm Md Sameeruddin, a data science enthusiast with a strong tech addiction.<br>👨‍💻Engaged in diverse machine learning projects solving real-world challenges.<br>🤝Seeking developers to collaborate on projects - code improvements, bug fixes, and new ideas welcome.<br>📚Currently focusing on data analysis and mastering machine learning algorithms.<br>⚡Addicted to all things tech!<br>
 <b>Let's network and discuss by email or connect on LinkedIn. Happy coding!</b>
 
