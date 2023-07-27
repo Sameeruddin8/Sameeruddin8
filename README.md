@@ -2,8 +2,8 @@
  <h1 align="center">Hi 👋, I'm Md Sameeruddin</h1>
 <h3 align="center">A passionate learner.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">	
-# About Me:
-Welcome to My GitHub Profile!<br><b>About Me:</b><br>I'm Md Sameeruddin, a data science enthusiast with a strong tech addiction.<br><b>What I'm Working On:</b><br>Engaged in diverse machine learning projects solving real-world challenges.<br><b>How You Can Contribute:</b><br>Seeking developers to collaborate on projects - code improvements, bug fixes, and new ideas welcome.<br><b>What I'm Learning:</b><br>Currently focusing on data analysis and mastering machine learning algorithms.<br><b>Fun Fact:</b><br>Addicted to all things tech!<br>Connect With Me<br>Let's network and discuss by email or connect on LinkedIn. Happy coding!
+Welcome to My GitHub Profile!<br>👦I'm Md Sameeruddin, a data science enthusiast with a strong tech addiction.<br>👨‍💻Engaged in diverse machine learning projects solving real-world challenges.<br>🤝Seeking developers to collaborate on projects - code improvements, bug fixes, and new ideas welcome.<br>📚Currently focusing on data analysis and mastering machine learning algorithms.<br>⚡Addicted to all things tech!<br>
+# Let's network and discuss by email or connect on LinkedIn. Happy coding!
 
 
 ## 🌐 Socials:
