@@ -1,4 +1,3 @@
-[![MasterHead](https://i.gifer.com/758b.gif)](https://rishavchanda.io)
  <h1 align="center">Hi 👋, I'm Md Sameeruddin</h1>
 <h3 align="center">A passionate learner.</h3>
 <img align="right" alt="Coding" width="250" height = '200' src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">	
